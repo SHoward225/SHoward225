@@ -39,22 +39,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔥 **Custom Memory Allocator** ([GitHub Repo](#))
-🔹 Implemented a **custom memory allocator in C** with **optimized allocation strategies** and multi-threading support.  
-🔹 Achieved significant **performance improvements** compared to `malloc/free`.  
-
-### 🖥️ **Custom Shell (`ensishell`)** ([GitHub Repo](#))
-🔹 Developed a **lightweight UNIX shell in C**, supporting **I/O redirections, pipelines, and background processes**.  
-🔹 Refactored for modularity, improving **maintainability and readability**.  
-
-### ☁ **Cloud-Based Chatbot** ([GitHub Repo](#))
-🔹 Designed and deployed a **multi-language AI chatbot** using **LangChain, Streamlit, and OpenAI APIs**.  
-🔹 Integrated with **Docker & Kubernetes** for cloud scalability.  
-
----
-
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHoward225&show_icons=true&theme=dark&count_private=true)
