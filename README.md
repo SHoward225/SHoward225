@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=StephaneKouadio225&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephaneKouadio225&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skouadio225&layout=compact&theme=dark)
 
 ---
 
@@ -51,7 +51,7 @@
 - 📧 **Email**: [stephane.kouadio.1811@gmail.com](mailto:stephane.kouadio.1811@gmail.com) | [konan-junior-kouadio@grenoble-inp.org](konan-junior-kouadio@grenoble-inp.org)
 - 💼 **LinkedIn**: [Konan Junior Aimé Stéphane KOUADIO](https://www.linkedin.com/in/kouadio-konan-junior-aim%C3%A9-st%C3%A9phane/)
 - 🌍 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
-- 🐙 **GitHub**: [github.com/YourGitHubUsername](https://github.com/StephaneKouadio225)  
+- 🐙 **GitHub**: [github.com/YourGitHubUsername](https://github.com/skouadio225)  
 
 ---
 
