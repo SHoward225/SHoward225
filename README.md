@@ -50,8 +50,8 @@
 
 - 📧 **Email**: [stephane.kouadio.1811@gmail.com](mailto:stephane.kouadio.1811@gmail.com) | [konan-junior-kouadio@grenoble-inp.org](konan-junior-kouadio@grenoble-inp.org)
 - 💼 **LinkedIn**: [Konan Junior Aimé Stéphane KOUADIO](https://www.linkedin.com/in/kouadio-konan-junior-aim%C3%A9-st%C3%A9phane/)
-- 🌍 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
-- 🐙 **GitHub**: [github.com/YourGitHubUsername](https://github.com/skouadio225)  
+- 🌍 **Portfolio**: [skouadio225.com](https://skouadio225.com)  
+- 🐙 **GitHub**: [github.com/skouadio225](https://github.com/skouadio225)  
 
 ---
 
