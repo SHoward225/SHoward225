@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=StephaneKouadio225&show_icons=true&theme=dark&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=skouadio225&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skouadio225&layout=compact&theme=dark)
 
 ---
