@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Stephane KOUADIO !
 
-## 🚀 Software Developer Engineer | DevOps | Data engineer
+## 🚀 Software Developer | DevOps | Data engineer
 
 🎯 **Actively seeking**: Internship in **Software Development, DevOps, and Data Engineering**.  
 💡 **Passionate about**: Building scalable, high-performance applications, infrastructure automation, and security.  
